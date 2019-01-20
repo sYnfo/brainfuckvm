@@ -1,0 +1,8 @@
+[package]
+name = "brainfuckvm"
+version = "0.1.0"
+authors = ["Matej Stuchlik <matej.stuchlik@gmail.com>"]
+
+[dependencies]
+clap = "2"
+itertools = "0.7"
